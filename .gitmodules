@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GSED"]
 	path = GSED
 	url = https://github.com/cran/GSED
-	shallow = true
-	registered = true
 [submodule "MIXFIM"]
 	path = MIXFIM
 	url = https://github.com/cran/MIXFIM
-	shallow = true
-	registered = true
 [submodule "SIDES"]
 	path = SIDES
 	url = https://github.com/cran/SIDES
-	shallow = true
-	registered = true
